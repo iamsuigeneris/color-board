@@ -30,11 +30,6 @@ main {
   
 }
 .btn-color {
-    /* box-shadow: 0 1px #4D73BF;
-    font-size: 0.9rem;
-    padding: 6px 12px;
-    margin: 20px 10px;
-    border-radius: 5px; */
     position: relative;
     background: orangered;
     border: none;

@@ -19,7 +19,7 @@
 //     return Math.floor(Math.random() * hex.length)
 // }
 /*
-    SECOND METHOD
+      SECOND METHOD
 */
 
 const board = document.querySelector('.main-board');
